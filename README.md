@@ -1,13 +1,13 @@
 # 💱 Conversor de Moedas - Java
 
 ## 📑 Índice
-- [Descrição](#descrição)
-- [Instalação](#instalação)
-- [Configuração do .env](#configuração-do-env)
-- [Uso](#uso)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Licença](#licença)
-- [Autor](#Autor)
+- [Descrição](https://github.com/PLeonLopes/Challenge-Conversor_moedas?tab=readme-ov-file#-descri%C3%A7%C3%A3o)
+- [Instalação](https://github.com/PLeonLopes/Challenge-Conversor_moedas?tab=readme-ov-file#%EF%B8%8F-instala%C3%A7%C3%A3o)
+- [Configuração do .env](https://github.com/PLeonLopes/Challenge-Conversor_moedas?tab=readme-ov-file#-configura%C3%A7%C3%A3o-do-env)
+- [Uso](https://github.com/PLeonLopes/Challenge-Conversor_moedas?tab=readme-ov-file#%EF%B8%8F-uso)
+- [Tecnologias Utilizadas](https://github.com/PLeonLopes/Challenge-Conversor_moedas?tab=readme-ov-file#-tecnologias-utilizadas)
+- [Licença](https://github.com/PLeonLopes/Challenge-Conversor_moedas?tab=readme-ov-file#-licen%C3%A7a)
+- [Autor](https://github.com/PLeonLopes/Challenge-Conversor_moedas?tab=readme-ov-file#-autor)
 
 ---
 
@@ -71,7 +71,7 @@ Este projeto foi desenvolvido como parte do programa de ensino **ONE** da **Orac
 ---
 
 ## 📄 Licença
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a [Licença MIT](https://github.com/PLeonLopes/Challenge-Conversor_moedas/blob/main/LICENSE)
 
 ---
 
